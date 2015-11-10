@@ -1,0 +1,23 @@
+Timestamp,Username,What level of experience do you have?,How much time would you like to spend on this workshop?,Which dates could you attend?,Which of these goals would you like to accomplish?
+10/28/2015 20:15:13,dn@example.com,Familiar with basic python,More than 6h,"Fri 11/6 6pm, Mon 11/9 6pm, Tue 11/10 6pm, Wed 11/18 6pm","Make a fare estimator using Lyft's public API, I have no idea"
+10/28/2015 20:38:45,ss@example.com,Coded a little bit with python,4 hours,"Mon 11/9 6pm, Tue 11/10 6pm, Wed 11/18 6pm","Make a fare estimator using Lyft's public API, Do stuff with data from a CSV"
+10/28/2015 21:44:39,bg@example.com,None at all,2 hours,"Sat 11/7 11am, Mon 11/9 6pm","Make a fare estimator using Lyft's public API, Create a slackbot that plays rock paper scissors"
+10/28/2015 21:51:14,mh@example.com,Coded a little bit with python,4 hours,"Fri 11/6 6pm, Mon 11/9 6pm, Tue 11/10 6pm, Wed 11/18 6pm",Make a fare estimator using Lyft's public API
+10/28/2015 23:57:01,lu@example.com,Coded a little bit with python,4 hours,"Sat 11/7 11am, Mon 11/9 6pm, Tue 11/10 6pm, Wed 11/18 6pm",Do stuff with data from a CSV
+10/29/2015 6:31:15,sc@example.com,Coded a little bit with a language other than python,6 hours,"Mon 11/9 6pm, Tue 11/10 6pm","Make a fare estimator using Lyft's public API, Do stuff with data from a CSV"
+10/29/2015 8:46:37,sa@example.com,None at all,6 hours,"Fri 11/6 6pm, Tue 11/10 6pm, Wed 11/18 6pm","Create a slackbot that plays rock paper scissors, Do stuff with data from a CSV"
+10/29/2015 9:11:46,ls@example.com,Coded a little bit with a language other than python,4 hours,"Mon 11/9 6pm, Tue 11/10 6pm","Make a fare estimator using Lyft's public API, Create a slackbot that plays rock paper scissors, Do stuff with data from a CSV"
+10/29/2015 9:36:17,sz@example.com,Coded a little bit with python,As long as it's needed,"Mon 11/9 6pm, Tue 11/10 6pm",I have no idea what I can do with Python
+10/29/2015 9:38:01,co@example.com,None at all,6 hours,"Mon 11/9 6pm, Tue 11/10 6pm, Wed 11/18 6pm","Create a slackbot that plays rock paper scissors, Do stuff with data from a CSV"
+10/29/2015 10:25:01,jk@example.com,None at all,Up to 10 hours,"Fri 11/6 6pm, Sat 11/7 11am, Mon 11/9 6pm, Tue 11/10 6pm, Wed 11/18 6pm",Do stuff with data from a CSV
+10/29/2015 10:27:19,es@example.com,None at all,2 hours,"Mon 11/9 6pm, Tue 11/10 6pm, Wed 11/18 6pm","Make a fare estimator using Lyft's public API, Create a slackbot that plays rock paper scissors, Do stuff with data from a CSV"
+10/29/2015 10:27:28,kz@example.com,Coded a little bit with a language other than python,4 hours,"Mon 11/9 6pm, Tue 11/10 6pm, Wed 11/18 6pm","Make a fare estimator using Lyft's public API, Create a slackbot that plays rock paper scissors, Do stuff with data from a CSV"
+10/29/2015 10:27:51,ry@example.com,Coded a little bit with a language other than python,4 hours,"Mon 11/9 6pm, Tue 11/10 6pm, Wed 11/18 6pm","Make a fare estimator using Lyft's public API, Create a slackbot that plays rock paper scissors, Do stuff with data from a CSV"
+10/29/2015 10:32:34,jh@example.com,Familiar with basic python,6 hours,"Fri 11/6 6pm, Sat 11/7 11am, Mon 11/9 6pm",Do stuff with data from a CSV
+10/29/2015 10:44:52,jm@example.com,None at all,4 hours,Tue 11/10 6pm,"Make a fare estimator using Lyft's public API, Do stuff with data from a CSV"
+10/29/2015 10:49:29,pb@example.com,None at all,2 hours,Wed 11/18 6pm,"Make a fare estimator using Lyft's public API, Create a slackbot that plays rock paper scissors, Do stuff with data from a CSV"
+10/29/2015 10:53:08,rs@example.com,None at all,5+ hrs/week,"Sat 11/7 11am, Mon 11/9 6pm, Tue 11/10 6pm, Wed 11/18 6pm","Make a fare estimator using Lyft's public API, Do stuff with data from a CSV"
+10/29/2015 13:55:28,mt@example.com,None at all,4 hours,Wed 11/18 6pm,"Create a slackbot that plays rock paper scissors, Do stuff with data from a CSV, meme generator!"
+10/29/2015 14:55:31,lj@example.com,Coded a little bit with a language other than python,2 hours,Fri 11/6 6pm,Do stuff with data from a CSV
+10/29/2015 15:13:00,mh@example.com,None at all,2 hours,"Mon 11/9 6pm, Tue 11/10 6pm","Make a fare estimator using Lyft's public API, Do stuff with data from a CSV"
+10/29/2015 15:41:15,ch@example.com,Familiar with basic python,4 hours,"Fri 11/6 6pm, Sat 11/7 11am, Tue 11/10 6pm, Wed 11/18 6pm",Make a fare estimator using Lyft's public API
