@@ -31,7 +31,7 @@ with open(csv_file, 'rb') as data:
             # Use string formatting to insert values into a statement
             print 'Could not find number of hours in "{}"'.format(row[3])
 
-average_hours = total_time/num_times_tallied
+average_hours = float(total_time/num_times_tallied)
 print 'Average length requested for python workshop: {} hours; {} votes'.format(
     average_hours, num_times_tallied
 )

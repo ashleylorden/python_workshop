@@ -7,7 +7,7 @@ csv_file = 'workshop_details.csv'
 
 # Object Oriented refers to using objects, which are instances of a class.
 # To use OOP style we need to set up a class first, then we'll use it to structure our data.
-class PythonWorkshopper():
+class PythonWorkshopper(object):
     '''
     Attributes about a python workshop attendee, specified in a survey
     including what they'd like to accomplish in the workshop
